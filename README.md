@@ -1,8 +1,8 @@
-### Hi there, I'm David 👋
+![hi-component](hi-component.png) 
 
 [![Website](https://img.shields.io/website?label=davidburdelak.pl&style=for-the-badge&url=https%3A%2F%2Fdavidburdelak.pl)](https://davidburdelak.pl)
 
-## I'm a Web Developer!
+### I'm a Web Developer! 👋
 
 - 🌱 I’m currently learning Firebase, Heroku, Node.js, React.js and Laravel ✨
 - 👯 I’m looking to collaborate with other content creators
