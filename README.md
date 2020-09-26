@@ -38,13 +38,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="davidburdelak Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=davidburdelak&show_icons=true&hide_border=true" />
