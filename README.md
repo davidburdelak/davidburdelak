@@ -1,6 +1,6 @@
 ### Hi there, I'm David 👋
 
-[![Website](https://davidburdelak.pl)](https://davidburdelak.pl)
+[![Website](https://img.shields.io/website?label=davidburdelak.pl&style=for-the-badge&url=https%3A%2F%2Fdavidburdelak.pl)](https://davidburdelak.pl)
 
 ## I'm a Front-End Developer!
 
