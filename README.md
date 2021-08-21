@@ -39,7 +39,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="davidburdelak Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidburdelak&show_icons=true&theme=tokyonight)
-" />
+  <img align="left" alt="davidburdelak Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidburdelak&show_icons=true&theme=tokyonight" />
 
 </details>
